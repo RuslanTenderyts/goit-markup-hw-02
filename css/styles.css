@@ -9,7 +9,6 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
-  font-style: 400;
   font-size: 14px;
   letter-spacing: 0.03em;
   color: var(--second-dark-color);
@@ -155,7 +154,7 @@ body {
   border-radius: 4px;
   border: 0;
   margin-right: 15px;
-  padding: 8px 25px;
+  padding: 6px 22px;
   cursor: pointer;
 }
 .buttons:focus,
@@ -188,7 +187,7 @@ body {
 }
 .footer-address,
 .footer-contact {
-  font-style: 400;
+  font-style: normal;
   line-height: 1.71;
 }
 .footer-address:hover,
